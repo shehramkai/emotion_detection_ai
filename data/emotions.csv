@@ -1,0 +1,49 @@
+text,emotion
+"I am feeling very happy today",happy
+"This is the best day of my life",happy
+"I got excellent marks in my exam",happy
+"I am so excited about the trip",happy
+"Everything is going perfectly",happy
+"I feel wonderful and cheerful",happy
+"I am smiling because I got good news",happy
+"Today has been an amazing day",happy
+"I am feeling very sad",sad
+"I lost something very important",sad
+"I feel lonely and depressed",sad
+"Today was a terrible day",sad
+"I miss my friends so much",sad
+"I am crying because I am hurt",sad
+"I feel disappointed with the result",sad
+"Nothing seems to be going right",sad
+"I am extremely angry",angry
+"This situation makes me furious",angry
+"I hate what happened today",angry
+"I am frustrated with this problem",angry
+"Why would you do this to me",angry
+"I am really annoyed right now",angry
+"This makes me very mad",angry
+"I cannot tolerate this anymore",angry
+"I am scared about what will happen",fear
+"I am afraid of the dark",fear
+"I feel nervous about my exam",fear
+"This situation is frightening",fear
+"I am worried about my future",fear
+"I am terrified of losing my job",fear
+"I feel unsafe here",fear
+"I am very anxious right now",fear
+"I love my family very much",love
+"I really care about my friends",love
+"You mean everything to me",love
+"I love spending time with you",love
+"I have strong feelings for her",love
+"My family gives me so much happiness",love
+"I appreciate everything you do",love
+"I feel close to the people I love",love
+"Wow I did not expect that",surprise
+"I am shocked by the news",surprise
+"I cannot believe what I just saw",surprise
+"What an unexpected result",surprise
+"I am completely surprised",surprise
+"That was an amazing surprise",surprise
+"I never thought this would happen",surprise
+"This news caught me off guard",surprise
